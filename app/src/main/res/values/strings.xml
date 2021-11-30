@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp2</string>
+    <string name="app_mane_page">So cute!</string>
+    <string name="hello">Hello</string>
+    <string name="button_text">button</string>
+    <string name="bye">bye</string>
+</resources>
